@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * partition_h - array partition
  * @array: array to sort
