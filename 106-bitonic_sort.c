@@ -1,5 +1,7 @@
-#include "sort.h"
 #include <stdio.h>
+#include <stdlib.h>
+#include "sort.h"
+
 /**
  * swap - change two values in ascending or descending order
  * @arr: array
